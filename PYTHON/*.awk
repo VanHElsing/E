@@ -1,0 +1,1 @@
+#!/sw/bin/gawk -f
